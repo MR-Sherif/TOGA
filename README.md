@@ -30,7 +30,7 @@ Through a cache-aware dual-objective strategy, this relational knowledge is dist
 
 ## 🧠 Method Overview
 
-`![TOGA Architecture](Architecture_CR.png)`
+![TOGA Architecture](Architecture_CR.png)
 
 1. **Heterogeneous Graph Construction:** Integrates multi-scale visual patches and text prompts into a unified graph topology.
 2. **Cross-Modal Reasoning:** MGT performs type-specific message passing over image $\leftrightarrow$ patch, patch $\leftrightarrow$ patch, image $\leftrightarrow$ text, and patch $\leftrightarrow$ text edges.
