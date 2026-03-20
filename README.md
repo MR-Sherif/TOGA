@@ -54,9 +54,12 @@ TOGA establishes a new state-of-the-art across 11 benchmark datasets (ImageNet, 
 If you find this research useful in your work, please consider citing our CVPR 2026 paper:
 
 ```bibtex
-@inproceedings{khan2026toga,
-  title={Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters},
-  author={Khan, Mohammed Rahman Sherif and Behera, Mohammad Ardhendu and Pradhan, Sandip and Kumar, Swagat and Ahmed, Amr},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
+@misc{mohammad2026trainingonlyheterogeneousimagepatchtextgraph,
+      title={Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters}, 
+      author={Mohammed Rahman Sherif Khan Mohammad and Ardhendu Behera and Sandip Pradhan and Swagat Kumar and Amr Ahmed},
+      year={2026},
+      eprint={2603.18101},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.18101}, 
 }
