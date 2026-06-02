@@ -1,0 +1,11 @@
+torch
+torchvision
+torch-geometric
+numpy
+scipy
+Pillow
+tqdm
+PyYAML
+wandb
+ftfy
+regex
