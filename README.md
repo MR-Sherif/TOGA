@@ -118,13 +118,11 @@ This repository builds on the CLIP ecosystem and the Tip-Adapter codebase. We th
 If you find this research useful in your work, please consider citing our CVPR 2026 paper:
 
 ```bibtex
-@misc{mohammad2026trainingonlyheterogeneousimagepatchtextgraph,
-      title={Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters},
-      author={Mohammed Rahman Sherif Khan Mohammad and Ardhendu Behera and Sandip Pradhan and Swagat Kumar and Amr Ahmed},
-      year={2026},
-      eprint={2603.18101},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.18101},
+@inproceedings{mohammad2026training,
+  title={Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters},
+  author={Mohammad, Mohammed Rahman Sherif Khan and Behera, Ardhendu and Pradhan, Sandip and Kumar, Swagat and Ahmed, Amr},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19613--19622},
+  year={2026}
 }
 ```
