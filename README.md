@@ -10,8 +10,6 @@
 **Authors:** Mohammed Rahman Sherif Khan Mohammad, Ardhendu Behera, Sandip Pradhan, Swagat Kumar, Amr Ahmed  
 **Institution:** Edge Hill University
 
----
-
 ## More Work from Our Team
 
 - **SD-LoRA** — *Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation*. Our **NeurIPS 2026** paper on training-time structural distillation for few-shot adaptation. [Paper](https://arxiv.org/abs/2611.07063) · [Code](https://github.com/MR-Sherif/SD-LoRA)
