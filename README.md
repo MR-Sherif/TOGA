@@ -12,6 +12,11 @@
 
 ---
 
+## More Work from Our Team
+
+- **SD-LoRA** — *Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation*. Our **NeurIPS 2026** paper on training-time structural distillation for few-shot adaptation. [Paper](https://arxiv.org/abs/2611.07063) · [Code](https://github.com/MR-Sherif/SD-LoRA)
+- **JPTA** — *Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision-Language Models*. Our **NeurIPS 2026** paper on test-time adaptation of vision-language models. [Paper](https://arxiv.org/abs/2611.06993) · [Code](https://github.com/MR-Sherif/JPTA)
+
 ## Abstract
 
 Recent adapter-based CLIP tuning methods, such as Tip-Adapter, are strong few-shot learners that achieve efficiency by caching support features. However, these methods rely on global unimodal feature vectors, overlooking fine-grained patch relations and their structural alignment with class text.
